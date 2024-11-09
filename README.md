@@ -1,2 +1,3 @@
 # Certifications
-All My Certifications
+
+Contains my Ceritifications for easy access.
